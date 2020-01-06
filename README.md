@@ -6,6 +6,14 @@
 - coding goal: develop a JS comfort level 
 - creative goal: doodle more
 
+### Day 6 - Monday, January 6th, 2020
+
+- fasted 14 hours
+
+### Day 5 - Sunday, January 5th, 2020
+
+- fasted 12 hours
+
 ### Day 4 - Saturday, January 4th, 2020
 
 - fasted 13 hours
