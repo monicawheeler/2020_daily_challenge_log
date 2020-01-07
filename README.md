@@ -3,8 +3,13 @@
 ## January 30 day challenge 
 
 - fasting goal: build to 16 hour fasted
-- coding goal: develop a JS comfort level 
+- coding goal: develop a JS comfort level
 - creative goal: doodle more
+
+### Day 7 - Tuesday, January 7th, 2020
+
+- fasted 13.5 hours
+- debugging section of Beginner JS (Wes Bos Course)
 
 ### Day 6 - Monday, January 6th, 2020
 
