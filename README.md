@@ -6,6 +6,7 @@
 - coding goal: develop a JS comfort level
 - creative goal: doodle more
 
+---
 
 ### Day 8 - Wednesday, January 8th, 2020
 
