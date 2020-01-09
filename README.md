@@ -8,6 +8,12 @@
 
 ---
 
+### Day 9 - Thursday, January 9th, 2020
+
+- fasted 13 hours
+
+---
+
 ### Day 8 - Wednesday, January 8th, 2020
 
 - fasted 13 hours
