@@ -1,4 +1,4 @@
-# 2020_daily_challenge_log
+# 2020 Daily Challenge Log
 
 ## January 30 day challenge 
 
