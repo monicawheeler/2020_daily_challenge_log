@@ -8,6 +8,30 @@
 
 ---
 
+### Day 13 - Monday, January 13th, 2020
+
+- fasted 14.5 hours
+
+---
+
+### Day 12 - Sunday, January 12th, 2020
+
+- No log today
+
+---
+
+### Day 11 - Saturday, January 10th, 2020
+
+- Doodled cute animals 
+
+---
+
+### Day 10 - Friday, January 10th, 2020
+
+- No log today
+
+---
+
 ### Day 9 - Thursday, January 9th, 2020
 
 - fasted 13 hours
