@@ -3,8 +3,18 @@
 ## January 30 day challenge 
 
 - fasting goal: build to 16 hour fasted
-- coding goal: develop a JS comfort level
-- creative goal: doodle more
+
+---
+
+### Day 15 - Wednesday, January 15th, 2020
+
+- fasted **17** hours
+
+---
+
+### Day 14 - Tuesday, January 14th, 2020
+
+- fasted 14.5 hours
 
 ---
 
